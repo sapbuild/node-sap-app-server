@@ -6,6 +6,9 @@ install:
 node_js:
   - 0.10
   
+services: 
+  - mongodb
+  
 script:
   - gulp build 
   
