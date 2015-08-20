@@ -1,3 +1,8 @@
+[![Build](https://img.shields.io/travis/sapbuild/node-sap-app-server.svg?style=flat-square)](http://travis-ci.org/sapbuild/node-sap-app-server)
+[![Version](https://img.shields.io/npm/v/node-sap-app-server.svg?style=flat-square)](https://npmjs.org/package/node-sap-app-server)
+[![Dependency Status](https://david-dm.org/sapbuild/node-sap-app-server.svg)](https://david-dm.org/sapbuild/node-sap-app-server)
+[![devDependency Status](https://david-dm.org/sapbuild/node-sap-app-server/dev-status.svg)](https://david-dm.org/sapbuild/node-sap-app-server#info=devDependencies)
+[![Coverage](https://img.shields.io/coveralls/sapbuild/node-sap-app-server/master.svg?style=flat-square)](https://coveralls.io/r/sapbuild/node-sap-app-server?branch=master)
 node-sap-app-server
 ===================
 
