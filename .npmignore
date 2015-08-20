@@ -1,0 +1,12 @@
+coverage/
+logs/
+doc/
+gulp-config/
+test/
+
+.gitignore
+.npmignore
+.eslintrc
+bump-config.json
+gulpfile.js
+make
