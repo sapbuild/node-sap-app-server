@@ -20,7 +20,7 @@
     "express": "4.11.2",
     "global-tunnel": "1.2.0",
     "node-sap-common": "~0.1.0",
-    "node-sap-logging": "~0.1.0",
+    "node-sap-logging": "0.1.1",
     "node-sap-mongo": "~0.1.0",
     "node-sap-promise": "0.1.1",
     "method-override": "2.3.1",
