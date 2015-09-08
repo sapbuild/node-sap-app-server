@@ -9,7 +9,7 @@
   "licenses": [
     {
       "type": "Apache License, Version 2.0",
-      "url": "https://github.com/sapbuild/node-sap-app-server/blob/master/LICENSE.md"
+      "url": "https://github.com/SAP/Build/blob/master/LICENSE.md"
     }
   ],
   "dependencies": {
@@ -21,7 +21,7 @@
     "global-tunnel": "1.2.0",
     "node-sap-common": "~0.1.0",
     "node-sap-logging": "0.1.1",
-    "node-sap-mongo": "~0.1.0",
+    "node-sap-mongo": "0.1.1",
     "node-sap-promise": "0.1.1",
     "method-override": "2.3.1",
     "node-sap-mongo-config": "~0.1.0"
