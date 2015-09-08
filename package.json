@@ -21,7 +21,7 @@
     "global-tunnel": "1.2.0",
     "node-sap-common": "0.1.1",
     "node-sap-logging": "0.1.1",
-    "node-sap-mongo": "0.1.1",
+    "node-sap-mongo": "0.1.2",
     "node-sap-promise": "0.1.1",
     "method-override": "2.3.1",
     "node-sap-mongo-config": "0.1.1"
