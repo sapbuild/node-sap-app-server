@@ -13,7 +13,7 @@ var config = {
         projectKey: 'sonar:' + pkg.name,
         projectName: pkg.name,
         projectVersion: pkg.version,
-        sources: 'index.js, lib/, bin/',     // comma-delimited string of source directories 
+        sources: 'index.js, lib/, bin/',     // comma-delimited string of source directories
         language: 'js',
         sourceEncoding: 'UTF-8',
         javascript: {
@@ -23,7 +23,7 @@ var config = {
         }
     }
 };
- 
+
 config.eslint = config.src.concat([ 'test/**/*.js', 'gulp-config/*.js', 'make', 'gulpfile.js' ]);
 
 module.exports = config;
